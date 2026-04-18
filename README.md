@@ -7,10 +7,6 @@
 <h1 align="center">  [ INCOMING TRANSMISSION... ]  </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GERCHHH&color=red&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-</p>
-
-<p align="center">
   <p align="center">
   <font size="6"><b>Йо, рад тебя здесь видеть!</b></font><br>
   Меня зовут <b>ГЕРХАРДТ</b>. Приятно, что ты заглянул в мой профиль
